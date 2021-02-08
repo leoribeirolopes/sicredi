@@ -36,7 +36,7 @@ public class ApplicationTests {
 
     @Test
     void consultaCPF() throws Exception {
-        findByCpf CPF = findByCpf("01114777005");
+         String CPF = "01114777005";
 
     }
 }
